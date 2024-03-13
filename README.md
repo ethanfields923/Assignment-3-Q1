@@ -13,17 +13,17 @@ Student #: 101245491
 4. To test these options, use the following:
      a. Just select the 'Print all' option and see if all the current students in the database table are shown in the terminal.
      b. You can include the following input when asked for input to see if the 'Add Student' option works:
-         Billy
-         Bob
-         Bill.bob@example.com
-         2023-04-05
+         [Billy,
+         Bob,
+         Bill.bob@example.com,
+         2023-04-05]
          After doing this, you can select the 'print all' option when brought back to the menu options to see if the new entry is included in the database table
      c. You can use the following input when asked for input to see if the 'Update Student Email' options works:
-         4                         (If this is not the ID given to the new student, then use their ID shown after using the 'print all' option)
-         Billy.bob@example.com 
+         [4  (If this is not the ID given to the new student, then use their ID shown after using the 'print all' option),
+         Billy.bob@example.com] 
          After doing this, you can select the 'print all' option when brought back to the menu options to see if the latest entry has their email changed in the database table.
      d. You can use the following input to test the 'Delete Student' option:
-        4                      (Or the ID shown after using the 'print all' option if it is not that)
+        [4 (Or the ID shown after using the 'print all' option if it is not that)]
         After doing this, you can select the 'print all' option when brought back to the menu options to see if the entry we had added is deleted from the table.
 
 
