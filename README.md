@@ -27,4 +27,5 @@ Student #: 101245491
         After doing this, you can select the 'print all' option when brought back to the menu options to see if the entry we had added is deleted from the table.
 
 
+Video Demonstration Link:
 NOTE: The code is implemented under the assumption that the user will give valid input to the program. Hence, there is no explicit error-handling implemented in this code.
